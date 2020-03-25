@@ -1,4 +1,4 @@
-# todoapp
+# Todoapp
 
 ## Project setup
 ```
@@ -20,5 +20,15 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Author
+
+Harshith VA
+[VAwebsites](http://www.vawebsites.in)
+
+### Version
+
+1.0.0
+
+### License
+
+This project is licensed under the MIT License
